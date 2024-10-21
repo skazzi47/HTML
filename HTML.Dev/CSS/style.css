@@ -1,0 +1,35 @@
+head
+{
+    background-color:cadetblue;
+    color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+}
+header
+{
+    text-align: center;
+    background-color:black;
+    color:goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+body
+{
+    background-color:bisque;
+
+}
+main
+{
+    background-color: bisque;
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    height: 50rem;
+}
+footer
+{
+    text-align: center;
+    background-color:brown;
+    color:goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
